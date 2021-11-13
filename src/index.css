@@ -5,7 +5,10 @@
   --dark: #00332c;
   --highlight: #faae2b;
   --button: var(--highlight);
-  --button-text: var(--secondary)
+  --button-text: var(--secondary);
+  --spacing: 16px;
+  --input-spacing: 8px;
+  --radius: 3px;
 }
 
 body {

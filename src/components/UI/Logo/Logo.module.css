@@ -1,6 +1,6 @@
 .Logo {
   height: 50px;
-  border-radius: 4px;
+  border-radius: var(--radius);
   background-color: var(--secondary);
   box-sizing: border-box;
 }
