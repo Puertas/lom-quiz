@@ -4,6 +4,8 @@
   --tertiary: #475d5b;
   --dark: #00332c;
   --highlight: #faae2b;
+  --success: #2cb67d;
+  --error: #e16162;
   --button: var(--highlight);
   --button-text: var(--secondary);
   --spacing: 16px;
@@ -25,4 +27,8 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+input, select {
+  font-size: 16px;
 }

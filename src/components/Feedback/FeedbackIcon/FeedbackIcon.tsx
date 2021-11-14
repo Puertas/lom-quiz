@@ -8,10 +8,12 @@ interface FeedbackIconProps {
   correct: Boolean
 }
 
-const FeedbackIcon = ({ correct }: FeedbackIconProps) => (
-  <span className={correct ? classes.Correct : classes.Wrong}>
-    {correct ? <Check /> : <Cross />}
-  </span>
-)
+const FeedbackIcon = ({ correct }: FeedbackIconProps) => {
+  const iconClasses = `${classes.FeedbackIcon} ${
+    correct ? classes.Correct : classes.Wrong
+  }`
+
+  return <div className={iconClasses}>{correct ? <Check /> : <Cross />}</div>
+}
 
 export default FeedbackIcon

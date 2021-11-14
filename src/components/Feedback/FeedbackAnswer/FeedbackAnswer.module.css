@@ -1,7 +1,8 @@
 .Feedback {
   margin-top: var(--input-spacing);
   padding: var(--input-spacing);
-  color: var(--secondary);
   background: var(--error);
+  font-weight: 600;
+  color: var(--secondary);
   border-radius: var(--radius);
 }
