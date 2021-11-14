@@ -1,7 +1,7 @@
 import React from 'react'
+
 import FeedbackAnswer from '../../Feedback/FeedbackAnswer/FeedbackAnswer'
 import FeedbackIcon from '../../Feedback/FeedbackIcon/FeedbackIcon'
-
 import classes from './QuestionInputText.module.css'
 
 interface QuestionInputTextProps {
