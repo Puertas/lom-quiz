@@ -1,0 +1,7 @@
+.Correct {
+  color: var(--success);
+}
+
+.Wrong {
+  color: var(--error);
+}
