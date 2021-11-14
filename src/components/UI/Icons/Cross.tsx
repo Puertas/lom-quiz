@@ -1,10 +1,12 @@
 import React from 'react'
 
-const Cross = () => (
+import { IconPros } from '.'
+
+export const Cross = ({ size = '24' }: IconPros) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
+    width={size}
+    height={size}
     fill="none"
     stroke="currentColor"
     strokeLinecap="round"
@@ -17,5 +19,3 @@ const Cross = () => (
     <path d="M6 6L18 18"></path>
   </svg>
 )
-
-export default Cross
