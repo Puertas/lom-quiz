@@ -1,0 +1,9 @@
+.Correct {
+  color: var(--success);
+  text-decoration: underline;
+}
+
+.Incorrect {
+  color: var(--error);
+  text-decoration: line-through;
+}
