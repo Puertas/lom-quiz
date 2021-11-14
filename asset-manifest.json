@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lom-quiz/static/css/main.1bb5036c.chunk.css",
+    "main.js": "/lom-quiz/static/js/main.b7a6d3bf.chunk.js",
+    "main.js.map": "/lom-quiz/static/js/main.b7a6d3bf.chunk.js.map",
+    "runtime-main.js": "/lom-quiz/static/js/runtime-main.b9016972.js",
+    "runtime-main.js.map": "/lom-quiz/static/js/runtime-main.b9016972.js.map",
+    "static/js/2.38a9ffd6.chunk.js": "/lom-quiz/static/js/2.38a9ffd6.chunk.js",
+    "static/js/2.38a9ffd6.chunk.js.map": "/lom-quiz/static/js/2.38a9ffd6.chunk.js.map",
+    "static/js/3.6956b2d2.chunk.js": "/lom-quiz/static/js/3.6956b2d2.chunk.js",
+    "static/js/3.6956b2d2.chunk.js.map": "/lom-quiz/static/js/3.6956b2d2.chunk.js.map",
+    "index.html": "/lom-quiz/index.html",
+    "static/css/main.1bb5036c.chunk.css.map": "/lom-quiz/static/css/main.1bb5036c.chunk.css.map",
+    "static/js/2.38a9ffd6.chunk.js.LICENSE.txt": "/lom-quiz/static/js/2.38a9ffd6.chunk.js.LICENSE.txt",
+    "static/media/lom-logo.f848b8d4.svg": "/lom-quiz/static/media/lom-logo.f848b8d4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9016972.js",
+    "static/js/2.38a9ffd6.chunk.js",
+    "static/css/main.1bb5036c.chunk.css",
+    "static/js/main.b7a6d3bf.chunk.js"
+  ]
+}
