@@ -9,14 +9,7 @@
   border: 1px solid var(--dark);
   border-radius: var(--radius);
   background-color: var(--primary);
-  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
   z-index: 500;
   transition: all 0.3s ease-out;
-}
-
-@media (min-width: 400px) {
-  .Modal {
-    width: 250px;
-    left: calc(50% - 125px);
-  }
 }
