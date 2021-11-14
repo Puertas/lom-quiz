@@ -10,7 +10,7 @@ To run the project as usual:
 + `npm install` To install dependencies.
 + `npm start` To run the project.
 
-## Live Demo (WIP)
+## Live [Demo](https://puertas.github.io/lom-quiz/)
 
 
 > Project done with: [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [Feather-Icons](https://feathericons.com/) and CSS Modules
