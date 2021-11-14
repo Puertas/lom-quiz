@@ -1,0 +1,11 @@
+.WorthinessReport {
+  text-align: center;
+}
+
+.Worthy {
+  color: var(--success);
+}
+
+.Unworthy {
+  color: var(--error);
+}
