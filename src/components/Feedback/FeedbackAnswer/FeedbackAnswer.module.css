@@ -1,0 +1,7 @@
+.Feedback {
+  margin-top: var(--input-spacing);
+  padding: var(--input-spacing);
+  color: var(--secondary);
+  background: var(--error);
+  border-radius: var(--radius);
+}
