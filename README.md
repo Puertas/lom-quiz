@@ -13,4 +13,4 @@ To run the project as usual:
 ## Live Demo (WIP)
 
 
-> Project done with: React, Typescript and CSS Modules
+> Project done with: [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [Feather-Icons](https://feathericons.com/) and CSS Modules
