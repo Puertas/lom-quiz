@@ -7,7 +7,7 @@
   --success: #2cb67d;
   --error: #e16162;
   --button: var(--highlight);
-  --button-text: var(--secondary);
+  --button-text: var(--tertiary);
   --spacing: 16px;
   --input-spacing: 8px;
   --radius: 3px;
@@ -31,4 +31,24 @@ code {
 
 input, select {
   font-size: 16px;
+}
+
+input:disabled,
+select:disabled {
+  cursor: not-allowed;
+}
+
+button {
+  padding: 10px;
+  font: inherit;
+  color: var(--button-text);
+  border: 1px solid var(--secondary);
+  border-radius: var(--radius);
+  background-color: var(--button);
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
 }
