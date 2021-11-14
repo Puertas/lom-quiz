@@ -1,0 +1,15 @@
+.Select {
+  padding: var(--input-spacing);
+  border: 1px solid var(--dark);
+  border-radius: var(--radius);
+}
+
+.Correct {
+  border-color: var(--success);
+  color: var(--success);
+}
+
+.Incorrect {
+  border-color: var(--error);
+  color: var(--error);
+}
